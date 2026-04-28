@@ -15,7 +15,7 @@ Welcome! This is my cybersecurity learning portfolio based on the HTB Academy CJ
 - [Pentest in a Nutshell](./Pentest%20in%20a%20Nutshell)
 - [Using the Metasploit Framework](./Using%20the%20Metasploit%20Framework)
 - [Web Requests](./Web%20Requests)
-- [Windows Event Logs and Finding Evil](./Windows%20Event%20Logs%20and%20Finding%20Evil)
+- [Windows Event Logs and Finding Evil](./Windows%20Event%20Logs%20and%20Finding%20Evil%20-%20Skill%20Assessment)
 - [Windows Fundamentals](./Windows%20Fundamentals)
 
 ---
