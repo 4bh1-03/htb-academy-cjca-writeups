@@ -1,6 +1,6 @@
 title: "HTB Academy CJCA Writeups"
 description: "Hands-on cybersecurity writeups and notes from the HTB Academy CJCA path."
 
-theme: jekyll-theme-slate   # or cayman / midnight / slate
+theme: jekyll-theme-hacker
 
 show_downloads: false
