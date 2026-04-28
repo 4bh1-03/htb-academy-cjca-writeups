@@ -1,3 +1,54 @@
-theme: jekyll-theme-hacker
-title: HTB Academy CJCA Writeups
-description: My cybersecurity learning journey through HTB Academy
+title: "HTB Academy CJCA Writeups"
+description: "Hands-on cybersecurity writeups and notes from the HTB Academy CJCA path."
+theme: just-the-docs
+
+url: "https://4bh1-03.github.io/htb-academy-cjca-writeups"
+
+# Enable search
+search_enabled: true
+
+# Top navigation (header links)
+aux_links:
+  "GitHub Repo":
+    - "https://github.com/4bh1-03/htb-academy-cjca-writeups"
+
+# Color scheme (dark hacker vibe)
+color_scheme: dark
+
+# Footer
+footer_content: "© 2026 Abhi | Cybersecurity Learning Journey"
+
+# Enable copy button for code blocks
+enable_copy_code_button: true
+
+# Navigation structure
+nav_sort: case_insensitive
+
+# Back to top button
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Enable callouts (nice boxes)
+callouts:
+  note:
+    title: Note
+    color: blue
+  warning:
+    title: Warning
+    color: yellow
+  important:
+    title: Important
+    color: red
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
